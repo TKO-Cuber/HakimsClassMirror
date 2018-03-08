@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mrhakimsclass.weebly.com	TRUE	/	FALSE	1999999999	is_mobile	0
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	5aa0996c-dcfe5-f83fb-4737a
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-editor	APAKBOAK
+weebly.com	TRUE	/	FALSE	1999999999	sto-id-nginx_assets	0
+mrhakimsclass.weebly.com	TRUE	/	FALSE	1999999999	language	en
+

@@ -1,0 +1,68 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 07 Mar 2018 21:01:02 at http://mrhakimsclass.weebly.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A250000%c10%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://mrhakimsclass.weebly.com/ -O1 "C:\My Web Sites\Hakim" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:01:02	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+21:01:03	Warning: 	Note: due to mrhakimsclass.weebly.com remote robots.txt rules, links beginning with these path will be forbidden: /ajax/, /apps/ (see in the options to disable this)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/files/theme/short-wrapper.png?1464970566 (from mrhakimsclass.weebly.com/files/main_style.css?1464970566)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/files/theme/no-header-wrapper.png?1464970566 (from mrhakimsclass.weebly.com/files/main_style.css?1464970566)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/files/theme/banner-splash-bg.png?1464970566 (from mrhakimsclass.weebly.com/files/main_style.css?1464970566)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/files/theme/banner-splash.jpg?1464970566 (from mrhakimsclass.weebly.com/files/main_style.css?1464970566)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1464901685)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1464901685)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/GET (from cdn2.editmysite.com/js/site/main.js?buildTime=1464901685)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1464901685)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1464901685)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/weebly/libraries/videojs/video-js.swf (from cdn2.editmysite.com/js/site/main.js?buildTime=1464901685)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/AppleWebKit/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1464901685)
+21:05:42	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/Mobile/ (from cdn2.editmysite.com/js/site/main.js?buildTime=1464901685)
+21:05:44	Error: 	"Not Found" (404) at link cdn1.editmysite.com/editor/libraries/slideshow-jq.js?buildTime=1464980459 (from mrhakimsclass.weebly.com/unit-ii-mdash-united-states-and-canada.html)
+21:05:46	Warning: 	Retry after error -4 (Incorrect length (1614558 Bytes, 2263161 expected)) at link mrhakimsclass.weebly.com/uploads/3/8/9/1/38919119/smashwords-style-guide.pdf (from mrhakimsclass.weebly.com/smashwords-anthology-project.html)
+21:06:19	Error: 	"Not Found" (404) at link cdn1.editmysite.com/editor/libraries/slideshow-jq.js?buildTime=1465510914 (from mrhakimsclass.weebly.com/photos.html)
+21:06:20	Error: 	"Not Found" (404) at link cdn1.editmysite.com/editor/libraries/slideshow-jq.js?buildTime=1465337286 (from mrhakimsclass.weebly.com/photosvideo-2015-2016.html)
+21:06:20	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+21:06:20	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/payload.js (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+21:06:20	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/POST (from cdn2.editmysite.com/js/wsnbn/snowday262.js)
+21:06:50	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1465858086)
+21:06:50	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1465858086)
+21:06:50	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/GET (from cdn2.editmysite.com/js/site/main.js?buildTime=1465858086)
+21:06:50	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1465858086)
+21:06:50	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1465858086)
+21:06:50	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/AppleWebKit/
+21:06:50	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/AppleWebKit/ to /friday-updates/applewebkit
+21:06:50	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/Mobile/
+21:06:50	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/Mobile/ to /friday-updates/mobile
+21:06:56	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/archives/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1466804464)
+21:06:56	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/archives/mustache.js (from cdn2.editmysite.com/js/site/main.js?buildTime=1466804464)
+21:06:56	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/archives/GET (from cdn2.editmysite.com/js/site/main.js?buildTime=1466804464)
+21:06:56	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/archives/formSubmit.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1466804464)
+21:06:56	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/archives/formSubmitAjax.php (from cdn2.editmysite.com/js/site/main.js?buildTime=1466804464)
+21:06:56	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/archives/AppleWebKit/
+21:06:56	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/archives/AppleWebKit/ to /friday-updates/archives/applewebkit
+21:06:56	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/archives/Mobile/
+21:06:56	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/archives/Mobile/ to /friday-updates/archives/mobile
+21:07:02	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/category/AppleWebKit/
+21:07:02	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/category/AppleWebKit/ to /friday-updates/category/applewebkit
+21:07:03	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/category/Mobile/
+21:07:03	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/category/Mobile/ to /friday-updates/category/mobile
+21:07:08	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/applewebkit (from mrhakimsclass.weebly.com/friday-updates/AppleWebKit/)
+21:07:08	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/mobile (from mrhakimsclass.weebly.com/friday-updates/Mobile/)
+21:07:08	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/previous/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1475783654)
+21:07:09	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/previous/AppleWebKit/
+21:07:09	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/previous/AppleWebKit/ to /friday-updates/previous/applewebkit
+21:07:09	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/previous/Mobile/
+21:07:09	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/previous/Mobile/ to /friday-updates/previous/mobile
+21:07:10	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/archives/applewebkit (from mrhakimsclass.weebly.com/friday-updates/archives/AppleWebKit/)
+21:07:10	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/archives/mobile (from mrhakimsclass.weebly.com/friday-updates/archives/Mobile/)
+21:07:12	Error: 	"Not Found" (404) at link mrhakimsclass.weebly.com/friday-updates/category/all/Before you execute the binding your view must have a model or a collection. (from cdn2.editmysite.com/js/site/main.js?buildTime=1471995638)
+21:07:14	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/category/all/AppleWebKit/
+21:07:14	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/category/all/AppleWebKit/ to /friday-updates/category/all/applewebkit
+21:07:14	Warning: 	Found for mrhakimsclass.weebly.com/friday-updates/category/all/Mobile/
+21:07:14	Warning: 	File has moved from mrhakimsclass.weebly.com/friday-updates/category/all/Mobile/ to /friday-updates/category/all/mobile
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 15 seconds : 492 links scanned, 445 files written (85143165 bytes overall) [67208212 bytes received at 179221 bytes/sec], 24501051 bytes transferred using HTTP compression in 178 files, ratio 24%, 10.6 requests per connection
+(34 errors, 23 warnings, 0 messages)
